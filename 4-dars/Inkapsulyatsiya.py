@@ -56,7 +56,7 @@ class Talaba:
     def talaba_id(self):
         return self.__idraqam
     @classmethod
-    def get_talabalar_soni(cls):
+    def get_talabalar_son(cls):
         return cls.__talabalar_soni
 class Shaxs:
     """Shaxslar haqida ma'lumot"""
